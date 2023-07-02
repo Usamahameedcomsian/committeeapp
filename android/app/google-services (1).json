@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915165138106",
+    "project_id": "commitee-a9378",
+    "storage_bucket": "commitee-a9378.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915165138106:android:44c144db63d86edd8b4683",
+        "android_client_info": {
+          "package_name": "com.example.commitee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915165138106-3eaq7l3asumn089b9b66bgvhai5o03ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK5QPuENk9hUeeMXCvlBNAnFfVUOJiQHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915165138106-3eaq7l3asumn089b9b66bgvhai5o03ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
